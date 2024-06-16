@@ -1,0 +1,60 @@
+month,year,incentive,apr,notes,bank,notes_1,tag,site_changes,date
+1,2021,0.0,0.0,,abanca,,,,2021-01-01
+6,2021,150.0,0.0,800-1200 deposit,abanca,,increase incentive,,2021-06-01
+8,2021,150.0,0.0,800-1200 deposit,abanca,,incentive decrease,,2021-08-01
+4,2022,300.0,0.0,if over 1200 deposit,abanca,,"incentive decrease, apr decrease",,2022-04-01
+12,2022,300.0,0.0,mejor cambia de el sitio,abanca,,,major site change ,2022-12-01
+7,2023,300.0,2.0,,abanca,,increase apr,,2023-07-01
+12,2023,300.0,2.0,,abanca,,increase apr,,2023-12-01
+1,2021,0.0,0.0,,banc sabadell,,,,2021-01-01
+8,2022,50.0,1.0,por el primer año,banc sabadell,,"incentive increase, apr increase",,2022-08-01
+9,2022,0.0,1.0,por el primer año,banc sabadell,,increase incentive,,2022-09-01
+11,2022,175.0,2.0,por el primer año,banc sabadell,175€ si domicilias tu nomina,"incentive decrease, apr increase",,2022-11-01
+12,2022,0.0,1.0,por el primer año,banc sabadell,,"incentive decrease, apr decrease",,2022-12-01
+1,2023,175.0,2.0,por el primer año,banc sabadell,175€ si domicilias tu nomina,increase apr,,2023-01-01
+4,2023,250.0,2.0,por el primer año,banc sabadell,250â¬ por domiciliar tu nÃ³mina,increase incentive,,2023-04-01
+5,2023,200.0,2.5,mejor cambia de el sitio,banc sabadell,200â¬ por domiciliar tu nÃ³mina,"incentive decrease, apr increase",major site change ,2023-05-01
+8,2023,200.0,2.5,mejor cambia de el sitio,banc sabadell,"200â¬ por domiciliar tu nÃ³mina, y tambien 3% devolucion por todos los compras con la tarjeta en el verano",,,2023-08-01
+1,2021,0.0,5.0,"5% por el primer año y despues 2%, 0% despues, 800 deposito, maximo de 340 de 5000",bankinter,,,,2021-01-01
+11,2022,0.0,5.0,lo mismo pero con 2 cuentas gratis addcionalmente,bankinter,,,,2022-11-01
+7,2023,0.0,5.0,añadir un balance maximo a 10000 por un total de 680 en incentivos,bankinter,,increase incentive,,2023-07-01
+1,2021,0.0,0.0,,bbva,,,,2021-01-01
+2,2021,0.0,0.0,mejor cambia de el sitio,bbva,,,major site change,2021-02-01
+7,2022,0.0,0.0,recibes 350 cuando recmoiendes un amigo a BBVA. 35 cada amigo y 15 por los amigos,bbva,,increase incentive,,2022-07-01
+11,2022,0.0,0.0,La banca se reduzce la incentivo desde 35 por cada amigo a 15 por cada amigo. recibes 150 cuando recmoiendes un amigo a BBVA. 35 cada amigo y 15 por los amigos,bbva,,incentive decrease,,2022-11-01
+3,2023,0.0,0.0,la banca se aumenta la incentivo a 35.,bbva,,increase incentive,,2023-03-01
+5,2023,0.0,0.0,introdzce un descuenta por los servicios de media tal como Netflix etc,bbva,,,,2023-05-01
+6,2023,0.0,0.0,La banca se reduzce la incentivo desde 35 por cada amigo a 15 por cada amigo. recibes 150 cuando recmoiendes un amigo a BBVA. 35 cada amigo y 15 por los amigos,bbva,,incentive decrease,,2023-06-01
+7,2023,0.0,0.0,introduzco un nuevo incentivo donde te recibes hasta 35 cada mes por tus recibes y borra el incentivo de los subscriptciones,bbva,,increase incentive,,2023-07-01
+11,2023,0.0,2.0,"3% de tu recibos de luz y gas, mejor cambia de el sitio",bbva,,increase incentive,,2023-11-01
+11,2023,0.0,2.0,aumenta la incentivo por los referencias desde 150 a 350 y borra la incentivo por los recibos,bbva,,increase incentive,,2023-11-01
+12,2023,0.0,2.0,introduzco un nuevo incentivo donde te recibes un nuevo iPhone. Solo por 3000 familias. Necessitas niños.,bbva,,temporary incentive,,2023-12-01
+1,2021,0.0,0.05,dos cuentas uno a 0% TAE y el otro empeza a 0.05% TAE,evobanco,,,,2021-01-01
+6,2021,0.0,0.01,La cuenta con un renumerada se reduzco la TAE desde 0.05% a 0.01%,evobanco,,decrease apr,,2021-06-01
+11,2022,0.0,0.06,mejor cambia de el sitio,evobanco,,increase apr,,2022-11-01
+4,2023,0.0,2.0,aumenta el incentivo,evobanco,,increase apr,,2023-04-01
+9,2023,0.0,2.5,aumenta el incentivo,evobanco,,increase apr,,2023-09-01
+11,2023,0.0,2.85,aumento el incentivo,evobanco,,increase apr,,2023-11-01
+1,2021,0.0,1.0,"por el primer año y despues 0.1%, lo maximo es 10 cada mes",myinvestor,,,,2021-01-01
+9,2021,0.0,1.0,un mejor cambia del sitio,myinvestor,,increase apr,,2021-09-01
+8,2022,0.0,1.0,lo maximo es 13.5 cada mes,myinvestor,,decrease apr,,2022-08-01
+9,2022,0.0,1.0,añadir un incentivo donde extendas el 1% TAE si realizas €300 inversiones en los productos invesiones cada mes,myinvestor,,increase apr,,2022-09-01
+10,2022,0.0,1.0,"0,3% despues de el primer año y entonces aumentar el maximo returnos de ahorra desde 20000 a €30000 cada año",myinvestor,,increase apr,,2022-10-01
+1,2023,0.0,2.0,"hasta €300 cada mes y tambien lo incentivo de TAE indefinitivo cuando invertes €300 en los productos MyInvestor, recibes 2% TAE",myinvestor,,increase apr,,2023-01-01
+1,2021,0.0,0.0,,n26,,,,2021-01-01
+11,2022,0.0,0.0,introduzce Bizum,n26,,,major site change,2022-11-01
+7,2023,0.0,2.26,,n26,,increase apr,,2023-07-01
+1,2021,0.0,0.6,hasta €600 cada mes y despues .3%,openbank,,,,2021-01-01
+5,2021,0.0,0.53,,openbank,,decrease apr,,2021-05-01
+4,2022,0.0,1.0,hasta 100000,openbank,,increase apr,,2022-04-01
+4,2023,0.0,1.25,,openbank,,increase apr,,2023-04-01
+10,2023,0.0,1.76,mejor cambia de el sitio,openbank,,increase apr,,2023-10-01
+1,2021,0.0,0.0,,revolut,,,,2021-01-01
+9,2022,0.0,0.0,"mejor cambia de el sitio, hace un programa de viajes donde recibes 3% devolucion por los reservas",revolut,,increase incentive,major site change,2022-09-01
+10,2023,0.0,0.0,"mejor cambia de el sitio, 0.4% efectivo devloucion cuando usas la tarjeta",revolut,,increase incentive,major site change,2023-10-01
+11,2023,0.0,0.0,añadir un incentivo donde compras 1 accion sin commisiones cada mes,revolut,,increase incentive,major site change,2023-11-01
+1,2021,0.0,0.0,,santander,,,,2021-01-01
+5,2022,150.0,0.0,"mejor cambia de el sitio, me parece que este es el introduccion de Santader Zone",santander,,increase incentive,,2022-05-01
+8,2022,150.0,0.0,cambia a nombre de platform a Santander Premia,santander,,increase incentive,,2022-08-01
+2,2023,150.0,0.0,cambia a sitio,santander,,,major site change,2023-02-01
+9,2023,400.0,0.0,300 por 600 y 400 por mas que 2500,santander,"tambien se introdzcen un programa referral, donde tu recibas 50 euros por cada amigo te refieres, con un maximo de 10 amigos",increase incentive,,2023-09-01
