@@ -1,0 +1,6 @@
+,coefficients,p_values,output_title,amount_increase,date_of_event,r_squared,notes
+3,3948.240958,0.68212308,abanca * ing,150,4/1/22,0.169889481,"On this date, Abanca increased their incentive from Û150 to Û300 Euros for starting an account. In order to start an account there must have been a deposit of Û1200. "
+7,20089.55507,0.05902537,banc sabadell * ing,50,8/1/22,0.549419411,"Bank Sabadell increases the incentive to Û50 for opening account, and also increased their APR to 1%. "
+11,37466.32999,6.092E-05,banc sabadell * ing,200,4/1/23,0.879734529,"Bank Sabadell increases the incentive to Û250 for opening account, and while also having a 2% APR. "
+15,9352.120474,0.127160304,santander * ing,150,5/1/22,0.617961284,Santander increases their incentive to Û150 for opening an account
+23,31295.35087,3.53E-05,santander * ing,250,9/1/23,0.901388925,Santander increases their incentive to Û400 for opening an account
